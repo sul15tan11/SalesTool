@@ -15,8 +15,9 @@ public class Main {
 		private static void displayGreeting() {
 			// TODO Auto-generated method stub
 			
-			System.out.println(" HELLOW  HAPPY SALES PEOPLE! ");
-			System.out.println(" THIS APP SHOWS SALES DATA");
+			System.out.println(" Hello Happy Sales People! ");
+			System.out.println(" This app shows sales data.");
+			System.out.println(" ---------------------");
 			
 			System.out.println(" Test 1");
 
